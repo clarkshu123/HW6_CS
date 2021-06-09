@@ -1,1 +1,3 @@
 # HW6_CS
+The code file for each individual plot can be found under the "Starter_Code" folder called "rental_analysis.ipynb".
+The final dashboard for all plots combined can be found under the "Starter_code" folder called "dashboard.ipynb". It contains following tabs such as Title, Housing Units Per Year, Average Gross Rent, Average Sales Price, Average Price By Neighborhood, Top 10 Most Expensive Neighborhood, Most Expensive Neighborhoods Rent Sales and Neighborhood Map.
